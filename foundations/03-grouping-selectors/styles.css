@@ -1,0 +1,15 @@
+.one {
+    background-color: purple;
+    color: yellow;
+}
+
+.two {
+    background-color: yellow;
+    color: purple;
+}
+
+.one,
+.two {
+    font-size: 28px;
+    font-family: 'Times New Roman', sans-serif;
+}
