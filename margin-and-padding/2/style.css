@@ -1,0 +1,36 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+  
+.card {
+    width: 400px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.title {
+    background-color: lightblue;
+    margin: 0 0 10px 0;
+    padding: 10px;
+}
+
+.content {
+    background-color: lightblue;
+    margin: 0 0 10px 0;
+    padding: 20px 10px;
+}
+
+.button-container{
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border: 1px white solid;
+}
